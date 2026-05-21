@@ -1,0 +1,1 @@
+This project will consist of a main index pages which will have links to a few recipes. To practice all of the HTML knowledge and later style it up with CSS.
